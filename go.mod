@@ -1,4 +1,4 @@
-module github.com/akhil/ecommerce-yt
+module github.com/KiranDesh/ecommerce_user_access
 
 go 1.16
 
